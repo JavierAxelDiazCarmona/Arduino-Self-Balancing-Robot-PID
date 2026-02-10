@@ -51,7 +51,8 @@ double Kd = 3.5;  // Ganancia Derivativa: Amortiguamiento de oscilaciones
 double Ki = 250;  // Ganancia Integral: Corrección del error estacionario
 ```
 ---
-## Autoría y Créditos
+## Derechos de Autor
 
-© 2026. Creado por [Tu Nombre o Usuario de GitHub].
-Este proyecto fue desarrollado con fines educativos/personales.
+Copyright © 2026. Todos los derechos reservados.
+
+Este proyecto y todo su contenido, incluyendo el código fuente y la documentación, son propiedad de su autor. No se permite la reproducción, distribución o modificación de este material sin el consentimiento previo y por escrito del titular de los derechos.
