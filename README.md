@@ -49,3 +49,9 @@ Los valores finales para la estabilización fueron obtenidos mediante prueba y e
 double Kp = 60;   // Ganancia Proporcional: Reacción rápida al error
 double Kd = 3.5;  // Ganancia Derivativa: Amortiguamiento de oscilaciones
 double Ki = 250;  // Ganancia Integral: Corrección del error estacionario
+```
+---
+## Autoría y Créditos
+
+© 2026. Creado por [Tu Nombre o Usuario de GitHub].
+Este proyecto fue desarrollado con fines educativos/personales.
