@@ -1,6 +1,6 @@
 # Robot Péndulo Invertido (Self-Balancing Robot) con Control PID
 
-![Arduino](https://img.shields.io/badge/Arduino-Nano-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Status](https://img.shields.io/badge/Status-Completed-success)
+![Arduino](https://img.shields.io/badge/Arduino-Nano-blue) ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 Este repositorio contiene el código fuente y la documentación de diseño para un **Robot de Péndulo Invertido**. El proyecto implementa un sistema de control de lazo cerrado (PID) para estabilizar una estructura verticalmente inestable sobre dos ruedas.
 
